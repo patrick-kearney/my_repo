@@ -34,4 +34,4 @@ df = fit.to_frame()
 print(df)
 print(df.describe().T)
 
-az.summary.fit
+az.summary(fit)
